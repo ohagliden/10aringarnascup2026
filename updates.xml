@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>10-åringarnas Cup 2026 — Uppdateringar</title>
+    <link>https://10aringarnascup.se/uppdateringar</link>
+    <description>Uppdateringar om spelschema, tider och praktisk info för 10-åringarnas Cup 2026 på Ilanda IP</description>
+    <language>sv-SE</language>
+    <lastBuildDate>Mon, 13 Jul 2026 12:00:00 +0000</lastBuildDate>
+    <atom:link href="https://10aringarnascup.se/updates.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nyhetssida + #HBK10AringarnasCup2026</title>
+      <link>https://10aringarnascup.se/uppdateringar</link>
+      <description>Ny nyhetssida där cupens Instagram-inlägg visas — tagga era bilder med #HBK10AringarnasCup2026 så kan de lyftas in i flödet. Datumen 1–2 augusti är nu bekräftade.</description>
+      <guid isPermaLink="false">cup-update-e72553136c7e49cf</guid>
+      <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hitta hit, väder och FAQ</title>
+      <link>https://10aringarnascup.se/uppdateringar</link>
+      <description>Ny Hitta hit med karta och vägbeskrivning till Ilanda IP (Odalvägen 50), väderprognos för cuphelgen (visas när prognosen når fram), roterande 'Först ut'-matcher på startsidan och en FAQ-sida.</description>
+      <guid isPermaLink="false">cup-update-ef77d51f65ac961c</guid>
+      <pubDate>Fri, 10 Jul 2026 11:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Omklädningsrum, sponsorer och ny plankarta</title>
+      <link>https://10aringarnascup.se/uppdateringar</link>
+      <description>Varje lags sida visar nu lagets omklädningsrum med färgkod. Ny sponsorssida med plansponsorer och lotterisponsorer, och kartsidan har fått den riktiga plankartan.</description>
+      <guid isPermaLink="false">cup-update-8302c58c9ce8c551</guid>
+      <pubDate>Fri, 10 Jul 2026 11:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nytt spelschema (version 6.0)</title>
+      <link>https://10aringarnascup.se/uppdateringar</link>
+      <description>Schemat är omlagt så att alla regler håller: inga lag från samma klubb möter varandra, inget lag spelar både dagens första och sista match, och alla lag har minst en slot vila mellan sina matcher.</description>
+      <guid isPermaLink="false">cup-update-90dad72595769d3e</guid>
+      <pubDate>Fri, 10 Jul 2026 11:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cupsajten lanserad</title>
+      <link>https://10aringarnascup.se/uppdateringar</link>
+      <description>Officiella sidan för 10-åringarnas Cup 2026 är live — spelschema, alla lag med egna sidor, nedräkning och praktisk info.</description>
+      <guid isPermaLink="false">cup-update-896e80b45a552fab</guid>
+      <pubDate>Thu, 09 Jul 2026 11:56:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,129 @@
+match_id,day,slot,time,field,gender,home,away,referee_no
+1-f1-s0,1,0,09:00-09:45,1,boys,Norrstrands IF Röd,FBK Röd,1
+1-f2-s0,1,0,09:00-09:45,2,girls,IFK Skoghall Dam Blå,Qbik Vit,2
+1-f3-s0,1,0,09:00-09:45,3,girls,Rävåsen,NIF F-2016 Vit,3
+1-f4-s0,1,0,09:00-09:45,4,boys,Hammarö FK 1,IFK Skoghall Blå,4
+1-f5-s0,1,0,09:00-09:45,5,girls,IFK Skoghall Dam Vit,Fagerås Bk F16/17,5
+1-f6-s0,1,0,09:00-09:45,6,boys,HBK P16 Grön,Skattkärrs IF,6
+1-f7-s0,1,0,09:00-09:45,7,girls,IF Kil Vit,IFK Skoghall Dam Röd,7
+1-f8-s0,1,0,09:00-09:45,8,girls,IFK Skoghall Dam Grön,IF Kil Blå,8
+1-f1-s1,1,1,10:00-10:45,1,boys,HBK P16 Gul,KRP UNITED,9
+1-f2-s1,1,1,10:00-10:45,2,boys,FBK Svart,Forshaga IF Syd,10
+1-f3-s1,1,1,10:00-10:45,3,girls,Säffle SK F-16,Qbik Blå,11
+1-f4-s1,1,1,10:00-10:45,4,boys,Grums IK FK,Norrstrands IF Vit,12
+1-f5-s1,1,1,10:00-10:45,5,boys,Råtorps IK Blå,Nor/Edsvalla,13
+1-f6-s1,1,1,10:00-10:45,6,boys,HBK P16 Vit,Kils AIK 1,14
+1-f7-s1,1,1,10:00-10:45,7,boys,Hammarö FK 2,IK Arvika fotboll,15
+1-f8-s1,1,1,10:00-10:45,8,boys,Råtorps IK Vit,Karlstad Fotboll Blå,16
+1-f1-s2,1,2,11:00-11:45,1,girls,NIF F-2016 Röd,HBK F16,17
+1-f2-s2,1,2,11:00-11:45,2,boys,Karlstad Fotboll Vit,Kils AIK 2,18
+1-f3-s2,1,2,11:00-11:45,3,girls,IFK Skoghall Dam Rosa,Sommaro IF F10,19
+1-f4-s2,1,2,11:00-11:45,4,girls,NIF F-2016 Vit,Qbik Vit,20
+1-f5-s2,1,2,11:00-11:45,5,girls,IF Kil Vit,IFK Skoghall Dam Vit,21
+1-f6-s2,1,2,11:00-11:45,6,girls,IFK Skoghall Dam Röd,Fagerås Bk F16/17,22
+1-f7-s2,1,2,11:00-11:45,7,boys,FBK Röd,Skattkärrs IF,23
+1-f8-s2,1,2,11:00-11:45,8,girls,IF Kil Blå,Rävåsen,24
+1-f1-s3,1,3,12:00-12:45,1,girls,Qbik Blå,IFK Skoghall Dam Grön,25
+1-f2-s3,1,3,12:00-12:45,2,boys,Forshaga IF Nord,IFK Skoghall Vit,26
+1-f3-s3,1,3,12:00-12:45,3,boys,HBK P16 Gul,Kils AIK 1,27
+1-f4-s3,1,3,12:00-12:45,4,boys,IFK Skoghall Blå,IK Arvika fotboll,28
+1-f5-s3,1,3,12:00-12:45,5,boys,FBK Svart,Norrstrands IF Röd,29
+1-f6-s3,1,3,12:00-12:45,6,boys,HBK P16 Grön,Karlstad Fotboll Blå,30
+1-f7-s3,1,3,12:00-12:45,7,boys,Hammarö FK 1,Grums IK FK,31
+1-f8-s3,1,3,12:00-12:45,8,boys,Norrstrands IF Blå,Råtorps IK Blå,32
+1-f1-s4,1,4,13:15-14:00,1,girls,HBK F16,IFK Skoghall Dam Rosa,33
+1-f2-s4,1,4,13:15-14:00,2,girls,NIF F-2016 Röd,IFK Skoghall Dam Blå,34
+1-f3-s4,1,4,13:15-14:00,3,boys,Nor/Edsvalla,Råtorps IK Vit,35
+1-f4-s4,1,4,13:15-14:00,4,girls,Säffle SK F-16,Sommaro IF F10,36
+1-f5-s4,1,4,13:15-14:00,5,boys,Karlstad Fotboll Vit,Hammarö FK 2,37
+1-f6-s4,1,4,13:15-14:00,6,girls,Rävåsen,Fagerås Bk F16/17,38
+1-f7-s4,1,4,13:15-14:00,7,girls,Qbik Vit,IF Kil Blå,39
+1-f8-s4,1,4,13:15-14:00,8,girls,NIF F-2016 Vit,IFK Skoghall Dam Vit,40
+1-f1-s5,1,5,14:15-15:00,1,boys,HBK P16 Vit,Norrstrands IF Vit,41
+1-f2-s5,1,5,14:15-15:00,2,boys,Karlstad Fotboll Blå,KRP UNITED,42
+1-f3-s5,1,5,14:15-15:00,3,girls,IF Kil Vit,IFK Skoghall Dam Grön,43
+1-f4-s5,1,5,14:15-15:00,4,boys,IFK Skoghall Blå,Kils AIK 2,44
+1-f5-s5,1,5,14:15-15:00,5,boys,HBK P16 Gul,IK Arvika fotboll,45
+1-f6-s5,1,5,14:15-15:00,6,boys,HBK P16 Grön,Forshaga IF Nord,46
+1-f7-s5,1,5,14:15-15:00,7,boys,Kils AIK 1,Forshaga IF Syd,47
+1-f8-s5,1,5,14:15-15:00,8,boys,Norrstrands IF Blå,IFK Skoghall Vit,48
+1-f1-s6,1,6,15:15-16:00,1,boys,Hammarö FK 1,Nor/Edsvalla,49
+1-f2-s6,1,6,15:15-16:00,2,girls,Qbik Blå,IFK Skoghall Dam Blå,50
+1-f3-s6,1,6,15:15-16:00,3,girls,NIF F-2016 Röd,IFK Skoghall Dam Rosa,51
+1-f4-s6,1,6,15:15-16:00,4,girls,IFK Skoghall Dam Röd,Sommaro IF F10,52
+1-f5-s6,1,6,15:15-16:00,5,boys,Karlstad Fotboll Vit,FBK Röd,53
+1-f6-s6,1,6,15:15-16:00,6,girls,IF Kil Blå,NIF F-2016 Vit,54
+1-f7-s6,1,6,15:15-16:00,7,girls,Qbik Vit,IFK Skoghall Dam Vit,55
+1-f8-s6,1,6,15:15-16:00,8,boys,Norrstrands IF Röd,Skattkärrs IF,56
+1-f1-s7,1,7,16:15-17:00,1,boys,HBK P16 Gul,Norrstrands IF Vit,57
+1-f2-s7,1,7,16:15-17:00,2,boys,Forshaga IF Syd,Kils AIK 2,58
+1-f3-s7,1,7,16:15-17:00,3,boys,Forshaga IF Nord,Grums IK FK,59
+1-f4-s7,1,7,16:15-17:00,4,girls,Säffle SK F-16,HBK F16,60
+1-f5-s7,1,7,16:15-17:00,5,boys,IFK Skoghall Vit,KRP UNITED,61
+1-f6-s7,1,7,16:15-17:00,6,boys,Råtorps IK Blå,Hammarö FK 2,62
+1-f7-s7,1,7,16:15-17:00,7,boys,FBK Svart,HBK P16 Vit,63
+1-f8-s7,1,7,16:15-17:00,8,boys,Norrstrands IF Blå,Råtorps IK Vit,64
+2-f1-s0,2,0,09:00-09:45,1,girls,Säffle SK F-16,NIF F-2016 Röd,65
+2-f2-s0,2,0,09:00-09:45,2,boys,Kils AIK 2,HBK P16 Grön,66
+2-f3-s0,2,0,09:00-09:45,3,boys,Norrstrands IF Blå,FBK Svart,67
+2-f4-s0,2,0,09:00-09:45,4,boys,Hammarö FK 2,IFK Skoghall Blå,68
+2-f5-s0,2,0,09:00-09:45,5,girls,IFK Skoghall Dam Rosa,Fagerås Bk F16/17,69
+2-f6-s0,2,0,09:00-09:45,6,boys,Karlstad Fotboll Blå,IK Arvika fotboll,70
+2-f7-s0,2,0,09:00-09:45,7,boys,Grums IK FK,Karlstad Fotboll Vit,71
+2-f8-s0,2,0,09:00-09:45,8,girls,Sommaro IF F10,Qbik Blå,72
+2-f1-s1,2,1,10:00-10:45,1,girls,HBK F16,IFK Skoghall Dam Röd,73
+2-f2-s1,2,1,10:00-10:45,2,boys,HBK P16 Gul,IFK Skoghall Vit,74
+2-f3-s1,2,1,10:00-10:45,3,boys,Forshaga IF Syd,Nor/Edsvalla,75
+2-f4-s1,2,1,10:00-10:45,4,boys,KRP UNITED,Norrstrands IF Vit,76
+2-f5-s1,2,1,10:00-10:45,5,boys,Forshaga IF Nord,Råtorps IK Blå,77
+2-f6-s1,2,1,10:00-10:45,6,girls,Rävåsen,IFK Skoghall Dam Blå,78
+2-f7-s1,2,1,10:00-10:45,7,girls,Qbik Vit,IF Kil Vit,79
+2-f8-s1,2,1,10:00-10:45,8,girls,NIF F-2016 Vit,IFK Skoghall Dam Grön,80
+2-f1-s2,2,2,11:00-11:45,1,girls,Qbik Blå,IF Kil Blå,81
+2-f2-s2,2,2,11:00-11:45,2,boys,IFK Skoghall Blå,Råtorps IK Vit,82
+2-f3-s2,2,2,11:00-11:45,3,boys,Kils AIK 1,HBK P16 Grön,83
+2-f4-s2,2,2,11:00-11:45,4,boys,FBK Svart,IK Arvika fotboll,84
+2-f5-s2,2,2,11:00-11:45,5,girls,Säffle SK F-16,Fagerås Bk F16/17,85
+2-f6-s2,2,2,11:00-11:45,6,boys,HBK P16 Vit,Grums IK FK,86
+2-f7-s2,2,2,11:00-11:45,7,boys,Hammarö FK 1,Kils AIK 2,87
+2-f8-s2,2,2,11:00-11:45,8,girls,NIF F-2016 Röd,IFK Skoghall Dam Vit,88
+2-f1-s3,2,3,12:00-12:45,1,girls,IFK Skoghall Dam Grön,HBK F16,89
+2-f2-s3,2,3,12:00-12:45,2,boys,Norrstrands IF Röd,Råtorps IK Blå,90
+2-f3-s3,2,3,12:00-12:45,3,girls,Rävåsen,IFK Skoghall Dam Röd,91
+2-f4-s3,2,3,12:00-12:45,4,girls,IF Kil Vit,Sommaro IF F10,92
+2-f5-s3,2,3,12:00-12:45,5,boys,FBK Röd,Forshaga IF Nord,93
+2-f6-s3,2,3,12:00-12:45,6,boys,HBK P16 Gul,Skattkärrs IF,94
+2-f7-s3,2,3,12:00-12:45,7,boys,Karlstad Fotboll Blå,Norrstrands IF Vit,95
+2-f8-s3,2,3,12:00-12:45,8,girls,NIF F-2016 Vit,IFK Skoghall Dam Blå,96
+2-f1-s4,2,4,13:15-14:00,1,boys,Forshaga IF Syd,Hammarö FK 2,97
+2-f2-s4,2,4,13:15-14:00,2,girls,IFK Skoghall Dam Rosa,Qbik Vit,98
+2-f3-s4,2,4,13:15-14:00,3,girls,Fagerås Bk F16/17,NIF F-2016 Röd,99
+2-f4-s4,2,4,13:15-14:00,4,boys,IFK Skoghall Vit,HBK P16 Grön,100
+2-f5-s4,2,4,13:15-14:00,5,boys,Hammarö FK 1,Råtorps IK Vit,101
+2-f6-s4,2,4,13:15-14:00,6,boys,Norrstrands IF Blå,HBK P16 Vit,102
+2-f7-s4,2,4,13:15-14:00,7,boys,Nor/Edsvalla,Karlstad Fotboll Vit,103
+2-f8-s4,2,4,13:15-14:00,8,girls,IF Kil Blå,Säffle SK F-16,104
+2-f1-s5,2,5,14:15-15:00,1,boys,Norrstrands IF Röd,KRP UNITED,105
+2-f2-s5,2,5,14:15-15:00,2,girls,HBK F16,Sommaro IF F10,106
+2-f3-s5,2,5,14:15-15:00,3,girls,Qbik Blå,IFK Skoghall Dam Röd,107
+2-f4-s5,2,5,14:15-15:00,4,girls,Rävåsen,IFK Skoghall Dam Vit,108
+2-f5-s5,2,5,14:15-15:00,5,boys,Forshaga IF Nord,FBK Svart,109
+2-f6-s5,2,5,14:15-15:00,6,boys,Skattkärrs IF,IK Arvika fotboll,110
+2-f7-s5,2,5,14:15-15:00,7,girls,IF Kil Vit,IFK Skoghall Dam Blå,111
+2-f8-s5,2,5,14:15-15:00,8,boys,FBK Röd,Kils AIK 1,112
+2-f1-s6,2,6,15:15-16:00,1,boys,Karlstad Fotboll Blå,Grums IK FK,113
+2-f2-s6,2,6,15:15-16:00,2,boys,HBK P16 Vit,IFK Skoghall Blå,114
+2-f3-s6,2,6,15:15-16:00,3,boys,Hammarö FK 2,IFK Skoghall Vit,115
+2-f4-s6,2,6,15:15-16:00,4,boys,Forshaga IF Syd,HBK P16 Grön,116
+2-f5-s6,2,6,15:15-16:00,5,boys,Norrstrands IF Blå,Karlstad Fotboll Vit,117
+2-f6-s6,2,6,15:15-16:00,6,boys,Hammarö FK 1,Råtorps IK Blå,118
+2-f7-s6,2,6,15:15-16:00,7,boys,Kils AIK 2,Råtorps IK Vit,119
+2-f8-s6,2,6,15:15-16:00,8,girls,IFK Skoghall Dam Rosa,IF Kil Blå,120
+2-f1-s7,2,7,16:15-17:00,1,boys,HBK P16 Gul,Norrstrands IF Röd,121
+2-f2-s7,2,7,16:15-17:00,2,girls,IFK Skoghall Dam Grön,Qbik Vit,122
+2-f3-s7,2,7,16:15-17:00,3,girls,IFK Skoghall Dam Röd,NIF F-2016 Vit,123
+2-f4-s7,2,7,16:15-17:00,4,boys,FBK Röd,KRP UNITED,124
+2-f5-s7,2,7,16:15-17:00,5,boys,Skattkärrs IF,Norrstrands IF Vit,125
+2-f6-s7,2,7,16:15-17:00,6,girls,HBK F16,IFK Skoghall Dam Vit,126
+2-f7-s7,2,7,16:15-17:00,7,girls,IF Kil Vit,Rävåsen,127
+2-f8-s7,2,7,16:15-17:00,8,boys,Nor/Edsvalla,Kils AIK 1,128

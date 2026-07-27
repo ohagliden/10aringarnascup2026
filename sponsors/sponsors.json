@@ -1,0 +1,195 @@
+{
+  "main": [
+    {
+      "name": "Löfbergs",
+      "file": "lotteri-lofbergs.png",
+      "label": "Huvudsponsor"
+    },
+    {
+      "name": "ByggDialog",
+      "file": "byggdialog.svg",
+      "label": "Huvudsponsor"
+    }
+  ],
+  "plan": [
+    {
+      "name": "T3",
+      "plan": 1,
+      "file": "plan1-t3.png"
+    },
+    {
+      "name": "LG Contracting",
+      "plan": 2,
+      "file": "plan2-lg-contracting.svg"
+    },
+    {
+      "name": "Coach Knutsson",
+      "plan": 3,
+      "file": "plan3-coach-knutsson.png"
+    },
+    {
+      "name": "Fläkt Entreprenad",
+      "plan": 3,
+      "file": "plan3-flakt-entreprenad.jpg"
+    },
+    {
+      "name": "ASP",
+      "plan": 4,
+      "file": "plan4-asp.png"
+    },
+    {
+      "name": "Carl Gustav",
+      "plan": 5,
+      "file": "plan5-carl-gustav.png"
+    },
+    {
+      "name": "Prevas",
+      "plan": 6,
+      "file": "plan6-prevas.svg"
+    },
+    {
+      "name": "SP-gruppen",
+      "plan": 7,
+      "file": "plan7-sp-gruppen.jpg"
+    },
+    {
+      "name": "Byggstål",
+      "plan": 8,
+      "file": "plan8-byggstal.jpg"
+    }
+  ],
+  "warmup": [
+    {
+      "name": "Ledtec",
+      "file": "uppv-ledtec.jpg"
+    },
+    {
+      "name": "Aurena",
+      "file": "uppv-aurena.png"
+    }
+  ],
+  "other": [
+    {
+      "name": "Gasolcenter",
+      "file": "gasolcenter.png"
+    },
+    {
+      "name": "Gulf",
+      "file": "gulf.png"
+    }
+  ],
+  "lottery": [
+    {
+      "name": "BBM",
+      "file": "lotteri-bbm.png"
+    },
+    {
+      "name": "Bauerwater",
+      "file": "lotteri-bauerwater.png"
+    },
+    {
+      "name": "Beijer",
+      "file": "lotteri-beijer.jpg"
+    },
+    {
+      "name": "Bryngfjorden",
+      "file": "lotteri-bryngfjorden.png"
+    },
+    {
+      "name": "Elon",
+      "file": "lotteri-elon.png"
+    },
+    {
+      "name": "FBK",
+      "file": "lotteri-fbk.png"
+    },
+    {
+      "name": "Hälsohuset",
+      "file": "lotteri-halsohuset.png"
+    },
+    {
+      "name": "Hemmakväll",
+      "file": "lotteri-hemmakvall.png"
+    },
+    {
+      "name": "Ilanda Lagerförsäljning_Tokmormor",
+      "file": "lotteri-ilanda-lagerforsaljning-tokmormor.png"
+    },
+    {
+      "name": "Jumpyard",
+      "file": "lotteri-jumpyard.png"
+    },
+    {
+      "name": "Klippoteket",
+      "file": "lotteri-klippoteket.png"
+    },
+    {
+      "name": "Konstnär Thereze Norell",
+      "file": "lotteri-konstnar-thereze-norell.png"
+    },
+    {
+      "name": "LEKIA",
+      "file": "lotteri-lekia.png"
+    },
+    {
+      "name": "Länsförsäkringar",
+      "file": "lotteri-lansforsakringar.png"
+    },
+    {
+      "name": "Leos",
+      "file": "lotteri-leos.png"
+    },
+    {
+      "name": "OLW",
+      "file": "lotteri-olw.png"
+    },
+    {
+      "name": "One Profile",
+      "file": "lotteri-one-profile.png"
+    },
+    {
+      "name": "Prandi",
+      "file": "lotteri-prandi.png"
+    },
+    {
+      "name": "Skåre pizzeria",
+      "file": "lotteri-skare-pizzeria.png"
+    },
+    {
+      "name": "Skutbergets motionscentral",
+      "file": "lotteri-skutbergets-motionscentral.png"
+    },
+    {
+      "name": "Specialelektronik",
+      "file": "lotteri-specialelektronik.png"
+    },
+    {
+      "name": "Stadium",
+      "file": "lotteri-stadium.png"
+    },
+    {
+      "name": "Swedbank",
+      "file": "lotteri-swedbank.png"
+    },
+    {
+      "name": "Team Sportia",
+      "file": "lotteri-team-sportia.jpg"
+    },
+    {
+      "name": "ica maxi",
+      "file": "lotteri-ica-maxi.png"
+    },
+    {
+      "name": "iservice",
+      "file": "lotteri-iservice.png"
+    },
+    {
+      "name": "sanna bageri",
+      "file": "lotteri-sanna-bageri.png"
+    },
+    {
+      "name": "Saras Lågpris",
+      "file": "lotteri-saras-lagpris.jpg"
+    }
+  ]
+}

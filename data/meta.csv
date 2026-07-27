@@ -1,0 +1,17 @@
+key,value
+cup_name,10-åringarnas Cup 2026
+version,6.0
+first_match_hour,9
+slot_minutes,45
+num_fields,8
+lunch_break,12:45-13:15
+day1_date,2026-08-01
+day2_date,2026-08-02
+timezone,Europe/Stockholm
+edition,46
+venue,Ilanda IP
+venue_address,"Odalvägen 50, 653 50 Karlstad"
+venue_lat,59.4285
+venue_lon,13.4470
+swish_number,123-188 31 49
+meal_price_sek,70

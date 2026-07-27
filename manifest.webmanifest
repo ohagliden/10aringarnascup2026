@@ -1,0 +1,15 @@
+{
+  "name": "10-åringarnas Cup 2026",
+  "short_name": "Cup 2026",
+  "description": "Officiell sida för 10-åringarnas Cup 2026 på Ilanda IP — lag, spelschema och info.",
+  "lang": "sv",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f4d32",
+  "theme_color": "#0f4d32",
+  "icons": [
+    { "src": "brand/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "brand/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
